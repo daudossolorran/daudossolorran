@@ -22,7 +22,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,git,github,vscode,html,css" />
 </p>
 
 ---
